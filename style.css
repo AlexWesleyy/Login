@@ -18,6 +18,7 @@ body {
     padding: 20px;
     border-radius: 12px;
     background: #ffffff;
+    margin-inline: 5px;
 }
 
 .login h1 {
